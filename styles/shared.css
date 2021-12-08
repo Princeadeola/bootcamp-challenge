@@ -19,3 +19,10 @@ p{
 	font-family: 'Fira Sans', sans-serif;
 	color: rgb(83, 75, 75);
 }
+
+/* Responsive Design */
+@media screen and (max-width: 720px){
+	body{
+		margin: 30px;
+	}
+}
